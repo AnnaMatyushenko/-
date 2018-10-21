@@ -3,6 +3,8 @@
 
 [Задание №2. Создание графа. Пьеса Мариво Пьер Карле "Счастливая уловка"](https://github.com/AnnaMatyushenko/-/blob/master/Schastlivaya%20ulovka.pdf)
 
+[Пояснение к графу]()
+
 [Задание №3. Карта к роману У. М.Теккерея "Ярмарка Тщеславия"](https://github.com/AnnaMatyushenko/-/blob/master/Ярмарка%20Тщеславия.geojson)
 
 [Комментарий к карте](https://github.com/AnnaMatyushenko/-/blob/master/Комментарий%20к%20карте.md)
