@@ -5,4 +5,6 @@
 
 [Задание №3. Карта к роману У. М.Теккерея "Ярмарка Тщеславия"](https://github.com/AnnaMatyushenko/-/blob/master/Ярмарка%20Тщеславия.geojson)
 
+[Комментарий к карте](https://github.com/AnnaMatyushenko/-/blob/master/Комментарий%20к%20карте.md)
+
 [Задание №4. Исследование по НКРЯ. Стихотворение В. Маяковского "А вы могли бы?"](https://github.com/AnnaMatyushenko/-/blob/master/Корпусное%20исследование.md)
